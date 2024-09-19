@@ -50,7 +50,8 @@ dnf -y install docker  # 虚拟机安装docker示例, mac系统需自行安装
 # 2、docker安装成功后，如docker安装成功，可以看到安装的版本
 docker version 
 ```
-![5723f7ca5eb6c24d24bd3ad6a60cda8|608x354](upload://wapxus0KQEy7olD4hosPhGa7AM8.png)
+![image](https://github.com/user-attachments/assets/82d06882-615e-44d2-a742-48b058d23a77)
+
 
 
 ### 3. 拉取镜像
@@ -67,7 +68,8 @@ docker pull hub.oepkgs.net/openeuler/openeuler:latest
 #镜像拉取完成后可以看到
 docker images 
 ```
-![9ee6e0cc8c8e3760d395c74ef40e8ce|690x196, 100%](upload://hCv0hdeEvIeNiIx6hICo5M2h4lV.png)
+![image](https://github.com/user-attachments/assets/326f8878-22b8-41ca-95a6-65b5e402315a)
+
 
 ### 4. 运行容器
 
@@ -79,7 +81,8 @@ docker run -it  openeuler/openeuler:latest
 # 运行方式二：指定国内仓库，国内用户推荐使用
 docker run -it  hub.oepkgs.net/openeuler/openeuler:latest
 ```
-![image|690x221, 100%](upload://gtgMFwpJ26ZfkhiAdBmF4MCg7UW.png)
+![image](https://github.com/user-attachments/assets/e0ae71e0-4fb2-49ce-9268-1f02ca4bf92e)
+
 
 ### 5. 容器运行测试
 
@@ -107,7 +110,8 @@ print("Hello, world!")
 python3 HelloWorld.py
 ```
 文件编辑示例
-![1764949434bd5702c414beeb347aa6b|413x500](upload://qpoEzgVJu15FRgxiUPrijxF6Wzr.png)
+![image](https://github.com/user-attachments/assets/af58eec7-c771-40a1-85de-70e37c8d8e17)
+
 
 程序运行示例
-![a1c90f492615be15f6e4877a4185503|445x112](upload://boJxl2Hf3ul6orAUVD1XcACBB1Y.png)
+![image](https://github.com/user-attachments/assets/a3dddc3e-ae11-4f2e-9e66-bde53b3b5811)
