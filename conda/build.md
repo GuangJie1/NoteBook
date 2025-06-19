@@ -168,7 +168,7 @@ anaconda upload /path/to/package
 
 > [!NOTE]
 > 
-> anaconda文档中介绍的包上传大小是1G，但实际上传未限制，
+> anaconda文档中介绍的包上传大小是3G，
 > [anaconda/upload](https://enterprise-docs.anaconda.com/en/5.7.1/data-science-workflows/packages/upload.html)。
 
 
